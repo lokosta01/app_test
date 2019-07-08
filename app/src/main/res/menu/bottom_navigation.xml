@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/cats_graph"
+        android:title="@string/tab_1"
+        android:icon="@drawable/ic_cat" />
+    <item
+        android:id="@+id/dogs_graph"
+        android:title="@string/tab_2"
+        android:icon="@drawable/ic_dog"/>
+</menu>

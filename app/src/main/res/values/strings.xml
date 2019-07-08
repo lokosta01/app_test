@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">app_test</string>
+    <string name="tab_1">tab_one</string>
+    <string name="tab_2">tab_two</string>
+    <string name="text">title_name</string>
+</resources>
